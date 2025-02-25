@@ -1,4 +1,4 @@
-package org.dromara.common.core.constant;
+package com.only4.common.constant;
 
 /**
  * 通用常量信息
